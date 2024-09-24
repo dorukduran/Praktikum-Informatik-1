@@ -1,0 +1,20 @@
+23456
+Walter Rodenstock
+15.10.1963
+Wüllnerstr.9
+64567
+Paula Peters
+9.01.1981
+Weidenweg 12
+74567
+Vera Schmitt
+23.07.1982
+Gartenstr. 23
+98765
+Tobias Müller
+21.07.1985
+Weidenweg 15
+589371
+olaf
+19.06.2000
+ajsdk
